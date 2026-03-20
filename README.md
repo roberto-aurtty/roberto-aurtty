@@ -204,38 +204,9 @@
 ---
 
 <br/>
-
-<div align="center">
   
-  ## Professional Experience Highlights
-
-  <br/>
-  
-  **Senior FullStack Engineer**  
-  *2022 – Present*
-  
-  Architected and implemented a fullstack platform handling 50k+ concurrent users with Next.js and NestJS  
-  Reduced page load time by 65% through image optimization, code splitting, and edge caching  
-  Led migration from REST to GraphQL with end-to-end type safety using codegen  
-  Implemented comprehensive observability stack reducing MTTR by 75%
-  
-  <br/>
-  <br/>
-  
-  **FullStack Engineer**  
-  *2019 – 2022*
-  
-  Built responsive web applications serving 10M+ monthly active users with React and Node.js  
-  Designed and implemented RESTful APIs with OpenAPI documentation  
-  Implemented CI/CD pipelines with GitHub Actions and Vercel reducing deployment time by 80%  
-  Mentored 5 junior developers and conducted technical interviews
-
-</div>
-
 <br/>
 <br/>
-
----
 
 <br/>
 
