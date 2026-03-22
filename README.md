@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Software Architect • Java & Next.js Specialist
+  # Software Architect • Java & TypeScript Specialist
   
   <br/>
   
