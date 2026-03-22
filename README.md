@@ -154,10 +154,13 @@
   
   **Built with:** Java · Spring Boot · Kafka · PostgreSQL · React Native
   
-  - **Inventory Microservices:** Real-time stock tracking with optimistic locking and Kafka streams for warehouse-wide consistency
-  - **Wave Picking Optimization:** Algorithms that reduce travel time by 40% through intelligent batch picking
-  - **Mobile Warehouse Interface:** Progressive Web App for scanning, receiving, and putaway — works offline, syncs when connected
-  - **Barcode/RFID Integration:** Hardware-agnostic scanning layer supporting Zebra, Honeywell, and generic USB scanners
+  **Inventory Microservices** — Real-time stock tracking with optimistic locking and Kafka streams for warehouse-wide consistency
+  
+  **Wave Picking Optimization** — Algorithms that reduce travel time by 40% through intelligent batch picking
+  
+  **Mobile Warehouse Interface** — Progressive Web App for scanning, receiving, and putaway — works offline, syncs when connected
+  
+  **Barcode/RFID Integration** — Hardware-agnostic scanning layer supporting Zebra, Honeywell, and generic USB scanners
   
   <br/>
   
@@ -165,10 +168,13 @@
   
   **Built with:** Java · Spring Cloud · Kafka Streams · Redis · Next.js
   
-  - **Route Optimization Engine:** Custom algorithms (or Google OR-Tools integration) that reduce fleet mileage by 25%
-  - **Real-Time Fleet Tracking:** WebSocket dashboards with driver ETA predictions based on historical traffic patterns
-  - **Proof of Delivery (POD):** Digital signatures, photo capture, and geotagged timestamps — all synced via Kafka to backend systems
-  - **Driver Mobile App:** PWA with turn-by-turn navigation, delivery manifests, and exception reporting
+  **Route Optimization Engine** — Custom algorithms (or Google OR-Tools integration) that reduce fleet mileage by 25%
+  
+  **Real-Time Fleet Tracking** — WebSocket dashboards with driver ETA predictions based on historical traffic patterns
+  
+  **Proof of Delivery (POD)** — Digital signatures, photo capture, and geotagged timestamps — all synced via Kafka to backend systems
+  
+  **Driver Mobile App** — PWA with turn-by-turn navigation, delivery manifests, and exception reporting
   
   <br/>
   
@@ -176,10 +182,13 @@
   
   **Built with:** Next.js · TypeScript · Java · Kafka Connect
   
-  - **Headless Commerce Platform:** Next.js storefront with ISR (Incremental Static Regeneration) — product updates appear instantly without full rebuilds
-  - **Fiscal/NFe Integration:** Complete NF-e, CT-e, MDF-e stack with contingency mode, DANFE generation, and SEFAZ web services
-  - **Order-to-Cash Pipeline:** Kafka streams connecting storefront → inventory → fulfillment → invoicing → tracking
-  - **Multi-Marketplace Sync:** Bi-directional inventory and order sync with Mercado Livre, Amazon, and custom marketplaces
+  **Headless Commerce Platform** — Next.js storefront with ISR (Incremental Static Regeneration) — product updates appear instantly without full rebuilds
+  
+  **Fiscal/NFe Integration** — Complete NF-e, CT-e, MDF-e stack with contingency mode, DANFE generation, and SEFAZ web services
+  
+  **Order-to-Cash Pipeline** — Kafka streams connecting storefront → inventory → fulfillment → invoicing → tracking
+  
+  **Multi-Marketplace Sync** — Bi-directional inventory and order sync with Mercado Livre, Amazon, and custom marketplaces
   
   <br/>
   
@@ -187,10 +196,13 @@
   
   **Built with:** Terraform · Helm · AWS EKS · ArgoCD · Prometheus
   
-  - **GitOps Workflow:** Infrastructure as code with Terraform, application deployment with ArgoCD — full audit trail, instant rollbacks
-  - **Auto-Scaling Policies:** HPA (Horizontal Pod Autoscaler) based on custom Kafka lag metrics, not just CPU
-  - **Multi-Region DR:** Active-passive failover across AWS regions with Route53 and cross-region Kafka replication
-  - **Observability Stack:** Prometheus metrics, Loki logs, Tempo traces — understand exactly what your system is doing at any moment
+  **GitOps Workflow** — Infrastructure as code with Terraform, application deployment with ArgoCD — full audit trail, instant rollbacks
+  
+  **Auto-Scaling Policies** — HPA (Horizontal Pod Autoscaler) based on custom Kafka lag metrics, not just CPU
+  
+  **Multi-Region DR** — Active-passive failover across AWS regions with Route53 and cross-region Kafka replication
+  
+  **Observability Stack** — Prometheus metrics, Loki logs, Tempo traces — understand exactly what your system is doing at any moment
 
 </div>
 
@@ -261,8 +273,8 @@
   <br/>
   
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberto-aurtty&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=00d4ff" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-aurtty&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=roberto-aurtty&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=00d4ff" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-aurtty&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" />
   </div>
   
   <br/>
