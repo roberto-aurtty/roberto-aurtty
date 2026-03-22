@@ -1,6 +1,6 @@
 <div align="center">
   
-  # FullStack Engineer • TypeScript & Go Specialist
+  # Software Engineer • FullStack Architect
   
   <br/>
   
@@ -12,8 +12,8 @@
   <br/>
   <br/>
 
-  **Building end-to-end applications with type-safe architectures from database to UI.**  
-  **Specialized in TypeScript • Go • NestJS • Next.js • React**
+  **Delivering end-to-end software solutions for logistics, e-commerce, and online sales.**  
+  **Specialized in WMS • TMS • TypeScript • Go • NestJS • Next.js • React • AWS**
 
 </div>
 
@@ -26,7 +26,50 @@
 
 <div align="center">
   
-  ## Technical Expertise
+  ## About
+
+  <br/>
+  
+  I build complete software solutions that solve real business problems in logistics and e-commerce. With deep expertise in Warehouse Management Systems (WMS), Transportation Management Systems (TMS), and cloud infrastructure on AWS, I help businesses optimize operations and scale their digital presence.
+
+</div>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+  
+  ## What I Do
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+  | Domain | Solutions |
+  |--------|-----------|
+  | **WMS (Warehouse Management)** | Inventory control · Warehouse operations · Barcode/RFID integration · Pick & pack optimization · Stock management |
+  | **TMS (Transportation Management)** | Fleet management · Route optimization · Real-time tracking · Driver management · Delivery proof |
+  | **E-Commerce** | Complete online stores · Marketplace platforms · Payment integration · Order fulfillment |
+  | **Mobile** | Cross-platform mobile apps · Driver apps · Warehouse mobile interfaces |
+
+</div>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+  
+  ## Technical Arsenal
 
 </div>
 
@@ -36,14 +79,14 @@
   
   | Category | Technologies |
   |----------|--------------|
-  | **Frontend** | Next.js · React · TailwindCSS · Shadcn/ui · TanStack Query · Zustand |
-  | **Backend** | NestJS · Fastify · Express · Go · Fiber · gRPC |
+  | **Frontend** | Next.js · React · React Native · TailwindCSS · TanStack Query |
+  | **Backend** | NestJS · Fastify · Express · Go · Node.js |
+  | **Mobile** | React Native · Expo |
   | **Languages** | TypeScript · JavaScript · Go · SQL |
-  | **Databases** | PostgreSQL · MongoDB · Redis · Prisma · TypeORM |
-  | **Messaging** | Kafka · RabbitMQ · Redis Pub/Sub · NATS |
-  | **Infrastructure** | Docker · Kubernetes · Terraform · AWS · Vercel |
-  | **Observability** | OpenTelemetry · Prometheus · Grafana · Sentry |
-  | **Testing** | Jest · Vitest · Playwright · Cypress · Supertest |
+  | **Databases** | PostgreSQL · MongoDB · Redis · DynamoDB |
+  | **AWS** | EC2 · Lambda · API Gateway · S3 · RDS · ECS · CloudFront · Cognito |
+  | **DevOps** | Docker · Kubernetes · Terraform · GitHub Actions |
+  | **Logistics Tech** | WMS platforms · TMS systems · Route optimization APIs · GPS tracking · RFID/QR code |
 
 </div>
 
@@ -66,14 +109,63 @@
   
   | Competency | Description |
   |------------|-------------|
-  | **Frontend Architecture** | Server Components, client-side state, performance optimization, accessibility |
-  | **Backend Systems** | REST · GraphQL · gRPC · WebSocket with OpenAPI/Swagger documentation |
-  | **FullStack Type Safety** | End-to-end type safety from database to UI using tRPC, GraphQL, or shared types |
-  | **Database Engineering** | Schema design, query optimization, replication strategies, sharding |
-  | **Message-Driven Systems** | Event sourcing, CQRS patterns, stream processing with Kafka |
-  | **Performance Optimization** | Core Web Vitals, caching strategies, load balancing, database tuning |
-  | **DevOps & SRE** | CI/CD pipelines, container orchestration, infrastructure as code |
-  | **Testing Strategy** | Unit, integration, E2E, component testing, visual regression |
+  | **WMS Architecture** | Warehouse management systems, inventory control, warehouse operations automation |
+  | **TMS Architecture** | Transportation management, fleet tracking, route optimization, delivery management |
+  | **FullStack Development** | End-to-end systems from mobile apps to cloud infrastructure |
+  | **E-Commerce Platforms** | Complete online sales solutions, payment gateways, order processing |
+  | **Mobile Development** | Cross-platform apps for drivers, warehouse staff, and customers |
+  | **AWS Cloud** | Scalable infrastructure for logistics and e-commerce systems |
+  | **System Integration** | Connecting WMS, TMS, ERP, and e-commerce platforms |
+  | **Real-Time Systems** | Live tracking, WebSocket updates, real-time notifications |
+
+</div>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+  
+  ## Industry Solutions
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+  ### Warehouse Management Systems (WMS)
+  
+  Complete warehouse automation and inventory control solutions.
+  
+  **Capabilities:** Inventory tracking · Receiving & putaway · Pick & pack workflows · Shipping management · Cycle counting · Barcode/RFID integration · Warehouse analytics
+  
+  <br/>
+  
+  ### Transportation Management Systems (TMS)
+  
+  Fleet and delivery management solutions for logistics operations.
+  
+  **Capabilities:** Fleet tracking · Route optimization · Driver mobile apps · Proof of delivery · Fuel management · Maintenance scheduling · Real-time alerts
+  
+  <br/>
+  
+  ### E-Commerce & Online Sales
+  
+  Complete digital commerce solutions integrated with logistics operations.
+  
+  **Capabilities:** Custom online stores · Marketplace platforms · Payment integration · Order management · Fulfillment automation · Customer portals · Mobile shopping
+  
+  <br/>
+  
+  ### AWS Infrastructure
+  
+  Scalable cloud architecture powering logistics and e-commerce systems.
+  
+  **Capabilities:** Serverless architecture · Container orchestration · Database management · Cost optimization · Security compliance · High availability
 
 </div>
 
@@ -96,11 +188,11 @@
   
   | Project | Description | Stack |
   |---------|-------------|-------|
-  | **FullStack Platform** | Enterprise framework combining Next.js frontend with NestJS backend and Go microservices | Next.js · NestJS · Go · Prisma · GraphQL · tRPC |
-  | **Real-Time Dashboard** | Analytics dashboard with live data streaming and interactive visualizations | Next.js · WebSocket · D3.js · Redis · PostgreSQL |
-  | **E-Commerce Platform** | Full-featured e-commerce with cart, payments, and inventory management | React · NestJS · Stripe · Kafka · PostgreSQL |
-  | **SaaS Boilerplate** | Production-ready SaaS starter with auth, billing, and team management | Next.js · NestJS · Prisma · Stripe · Tailwind |
-  | **API Gateway** | High-performance gateway handling 15k+ RPS with rate limiting and auth | Fastify · Redis · TypeScript · Envoy |
+  | **WMS Platform** | Complete warehouse management with inventory control and mobile scanning | Next.js · NestJS · PostgreSQL · React Native · AWS |
+  | **TMS Solution** | Fleet management and route optimization with driver mobile app | Go · React · Redis · WebSocket · AWS ECS |
+  | **E-Commerce + Logistics** | Integrated online store with fulfillment and delivery tracking | Next.js · NestJS · Stripe · PostgreSQL · Kafka |
+  | **Delivery Management** | Real-time delivery tracking with driver and customer apps | React Native · NestJS · WebSocket · Redis · AWS Lambda |
+  | **Multi-Warehouse System** | Centralized inventory across multiple warehouse locations | Go · React · GraphQL · DynamoDB |
 
 </div>
 
@@ -117,33 +209,33 @@
 
   <br/>
 
-  ### 🏗️ End-to-End Type Safety
+  ### 🏭 Operations First
   
-  *TypeScript across the entire stack — from database schema to API contracts to React components. No runtime surprises.*
-  
-  <br/>
-  
-  ### ⚡ Performance First
-  
-  *Core Web Vitals, Lighthouse scores, API response times — every millisecond optimized.*
+  *Technology that optimizes real-world operations. Every solution is built to improve warehouse efficiency, fleet productivity, and customer satisfaction.*
   
   <br/>
   
-  ### 🧪 Test-Driven Development
+  ### 📱 Mobile at the Core
   
-  *Unit tests, integration tests, E2E with Playwright, and visual regression for UI confidence.*
-  
-  <br/>
-  
-  ### 📊 Observability by Design
-  
-  *Systems built with instrumentation from day one — logs, metrics, traces, and user sessions.*
+  *Drivers on the road, warehouse staff on the floor — mobile-first solutions for real-time operations.*
   
   <br/>
   
-  ### 🔒 Security at Every Layer
+  ### ☁️ Cloud-Powered Logistics
   
-  *From CSP headers to SQL injection prevention, authentication to authorization — security baked in.*
+  *AWS infrastructure that scales with your operation from 10 to 10,000 deliveries per day.*
+  
+  <br/>
+  
+  ### 🔗 Integration Ready
+  
+  *WMS talking to TMS, talking to e-commerce, talking to ERP — unified systems that work together.*
+  
+  <br/>
+  
+  ### 📊 Real-Time Everything
+  
+  *Live tracking, instant updates, and real-time visibility across your entire operation.*
 
 </div>
 
@@ -161,8 +253,8 @@
   <br/>
   
   <div align="center">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=roberto-aurtty&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=00d4ff" />
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-aurtty&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberto-aurtty&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=00d4ff" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-aurtty&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" />
   </div>
   
   <br/>
@@ -185,88 +277,6 @@
 
 <div align="center">
   
-  ## Current Focus
-
-  <br/>
-  
-  | Area | Focus |
-  |------|-------|
-  | **FullStack Type Safety** | Deepening tRPC and GraphQL codegen for end-to-end type safety |
-  | **Edge Computing** | Building applications that run at the edge with Vercel Edge Functions and Cloudflare Workers |
-  | **AI-Powered Applications** | LLM integration, RAG pipelines, vector databases in fullstack apps |
-  | **Real-Time Systems** | WebSocket, Server-Sent Events, and real-time collaboration features |
-
-</div>
-
-<br/>
-<br/>
-
----
-
-<br/>
-  
-<br/>
-<br/>
-
-<br/>
-
-<div align="center">
-  
-  ## Open Source Contributions
-
-  <br/>
-  
-  | Project | Contribution |
-  |---------|--------------|
-  | **Next.js** | Documentation improvements and bug fixes |
-  | **NestJS** | Core contributor — added WebSocket gateway improvements |
-  | **tRPC** | React query integration enhancements |
-  | **Prisma** | Documentation and TypeScript type enhancements |
-  | **Tailwind CSS** | Plugin ecosystem contributions |
-
-</div>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  
-  ## Speaking & Writing
-
-  <br/>
-  
-  **"End-to-End Type Safety with tRPC and Next.js"** — *React Summit 2024*  
-  [▶️ Watch on YouTube](https://youtube.com/watch?v=)
-  
-  <br/>
-  
-  **"Building FullStack Applications with NestJS and Next.js"** — *FullStack Conference 2023*  
-  [▶️ Watch on YouTube](https://youtube.com/watch?v=)
-  
-  <br/>
-  
-  **"Architecting for Scale: FullStack Edition"** — *DevCon 2023*  
-  [▶️ Watch on YouTube](https://youtube.com/watch?v=)
-  
-  <br/>
-  
-  Technical articles on [Medium](https://medium.com/) and [Dev.to](https://dev.to/)
-
-</div>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  
   ## Professional Certifications
 
   <br/>
@@ -274,9 +284,9 @@
   | Certification | Issuer |
   |--------------|--------|
   | AWS Certified Solutions Architect | Amazon Web Services |
+  | AWS Certified Developer | Amazon Web Services |
   | CKAD (Certified Kubernetes Application Developer) | CNCF |
   | Professional TypeScript Developer | Microsoft |
-  | Next.js Professional | Vercel |
 
 </div>
 
@@ -295,14 +305,13 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roberto-aurtty)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-  [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
   
   <br/>
   <br/>
   
-  **Open to senior fullstack engineering opportunities, technical consulting, and speaking engagements.**
+  **Available for software development partnerships, technical consulting, and building custom WMS, TMS, and e-commerce solutions.**
 
 </div>
 
@@ -315,7 +324,7 @@
 
 <div align="center">
   
-  <i>“Simplicity is the ultimate sophistication.” — Leonardo da Vinci</i>
+  <i>“Building software that moves goods, manages warehouses, and drives business forward.”</i>
   
   <br/>
   <br/>
