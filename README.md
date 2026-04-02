@@ -1,7 +1,6 @@
 <div align="center">
   
-  # Software Architect • Java & TypeScript Specialist
-  
+  # Software Architect • Java & TypeScript 
   <br/>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
